@@ -9,13 +9,17 @@ The results show that:
 
 The riskiest occupations in order, from the data shown below: 
 driver(446)  help(170)  helper(87) assistant(72) washer(43) spotter(28)
+
 Driver has 446 incident reports.
  
 The results show that:
 
 The body part that is injured in order, from the data shown below:
 head(1131)   face(608)   back(492)  bottom(351)  chest(344)   neck(303)
+
 Head injuries has 1131 incident reports.
+
+CoreNLP is a NLP toolkit with a broad range of grammatical analysis tool, we get nouns from the dataset. Using wordNet, we obtain hyponymns which are children words which are words that is a more specified word than a given word.
 
 
 
