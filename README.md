@@ -5,19 +5,17 @@ Which type of accidents are more common?
 Can we find out more risky occupations in such accidents?
 Which part of the body is injured the most?
 
-The results show that
+The results show that:
+
 The riskiest occupations in order, from the data shown below is 
 Driver:  
-
-driver      help    helper assistant    washer spotter  
-   446       170        87        72        43      28
+driver(446)  help(170)  helper(87) assistant(72) washer(43) spotter(28)  
  
 The results show that
 
 The body part that is injured in order, from the data shown below is head:
+head(1131)   face(608)   back(492)  bottom(351)  chest(344)   neck(303) 
 
-head   face   back  bottom  chest   neck 
-1131    608    492    351    344    303
 
 
 
