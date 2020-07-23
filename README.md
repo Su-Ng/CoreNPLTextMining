@@ -21,6 +21,12 @@ Head injuries has 1131 incident reports.
 
 CoreNLP is a NLP toolkit with a broad range of grammatical analysis tool, we get nouns from the dataset. Using wordNet, we obtain hyponymns which are children words which are words that is a more specified word than a given word.
 
+In this repository, I have included the dataset used Osha.txt and the programs used DataExploring.R and DataMining.R
+
+Thanks for reading!
+
+
+
 
 
 
